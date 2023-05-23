@@ -10,6 +10,9 @@ Click the image above to watch the preview video.
 
 ## Pip
 
-- [Installation](#installation)
-
+- Open your command prompt
+- write "pip install -r requirements"
+- cd "path to viewbot"
+- python main.py
+- You're Done:)
 
