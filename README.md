@@ -1,12 +1,6 @@
 # Github Viewbot
 
-A brief description of your project.
-
-## Preview Video
-
-![Project Preview](video.mp4)
-
-Click the image above to watch the preview video.
+A github viewbot made in python to boost your profile stats
 
 ## Pip
 
