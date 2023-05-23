@@ -1,10 +1,10 @@
-# Project Title
+# Github Viewbot
 
 A brief description of your project.
 
 ## Preview Video
 
-[![Project Preview](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Project Preview](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 Click the image above to watch the preview video.
 
