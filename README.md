@@ -4,7 +4,7 @@ A brief description of your project.
 
 ## Preview Video
 
-[![Project Preview](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+![Project Preview](video.mp4)
 
 Click the image above to watch the preview video.
 
