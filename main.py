@@ -35,6 +35,7 @@ while counter < num_refreshes:
     counter += 1
     os.system('cls')
     print(banner)
+    print("Repo: https://github.com/alf4ta/github-view-bot")
     print(f"Views: {counter}")
     os.system(f'title Views - {counter}')
 
