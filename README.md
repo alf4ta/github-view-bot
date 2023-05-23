@@ -2,7 +2,7 @@
 
 A github viewbot made in python to boost your profile stats
 
-## Pip
+## Installation
 
 - Open your command prompt
 - write "pip install -r requirements"
