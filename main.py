@@ -37,6 +37,6 @@ while counter < num_refreshes:
     print(banner)
     print("Repo: https://github.com/alf4ta/github-view-bot")
     print(f"Views: {counter}")
-    os.system(f'title Views - {counter}')
+    os.system(f'title Alf4ta ViewBot - Views - {counter}')
 
 driver.quit()
