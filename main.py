@@ -34,7 +34,7 @@ driver.get(github)
 
 os.system('cls')
 
-num_refreshes = 1000
+num_refreshes = 9999999999999999
 
 counter = 0
 
